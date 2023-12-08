@@ -1,0 +1,10 @@
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\bin\Debug\BilliardProject.exe.config
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\bin\Debug\BilliardProject.exe
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\bin\Debug\BilliardProject.pdb
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\obj\Debug\BilliardProject.csproj.AssemblyReference.cache
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\obj\Debug\BilliardProject.Form1.resources
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\obj\Debug\BilliardProject.Properties.Resources.resources
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\obj\Debug\BilliardProject.csproj.GenerateResource.cache
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\obj\Debug\BilliardProject.csproj.CoreCompileInputs.cache
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\obj\Debug\BilliardProject.exe
+E:\Mohammed Abu-Hadhoud\Course(14) C#\BilliardProject\obj\Debug\BilliardProject.pdb
